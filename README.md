@@ -1,5 +1,5 @@
 # Andromeda API
-A complete cloud-based platform for your nightly desires.
+A complete cloud-based nightlife platform for everyone.
 
 # Features
 TBA.
